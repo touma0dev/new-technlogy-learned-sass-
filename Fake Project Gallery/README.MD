@@ -1,7 +1,7 @@
 # Galleria
  - Este é um site chamado Galleria, que contém uma galeria de fotos dividida em nove categorias diferentes. Ele também possui um menu de navegação, informações sobre a empresa e links para as redes sociais.
 # Segue o Link Do site aqui 
- -[Galeria De Fotos](  https://friendly-lollipop-307aba.netlify.app/ )
+ - [Galeria De Fotos](  https://friendly-lollipop-307aba.netlify.app/ )
 # Menu de navegação
 - O menu de navegação é composto por cinco itens:
   - Home
